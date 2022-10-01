@@ -7,7 +7,7 @@ const AssignmentMarks = () => {
             name: "Page A",
             marks: 4000,
             quiz: 2400,
-            amt: 2400
+            amt: 2300
         },
         {
             name: "Page B",
